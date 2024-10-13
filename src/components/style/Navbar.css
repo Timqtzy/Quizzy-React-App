@@ -1,0 +1,23 @@
+#Login{
+    margin-right: 20px;
+    color: var(--color_light);
+    background-color: transparent;
+    border: none;
+    box-shadow: none;
+}
+
+#Signup{
+    background-color: #6F82E9;
+    color: var(--color_light);
+}
+
+#mode{
+    margin-right: 20px;
+}
+
+
+
+#container{
+    display: flex;
+    justify-content: center;
+}
